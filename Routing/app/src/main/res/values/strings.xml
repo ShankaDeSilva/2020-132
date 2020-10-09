@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Routing</string>
+
+    <string-array name="bangalows">
+        <item>Mahaseelawa Bungalow</item>
+        <item>Heenwewa Bangalow</item>
+        <item>Old Buthawa Wild Life Department Banglow</item>
+        <item>New Buthawa Bungalow</item>
+        <item>Thalgasmankada Bungalow</item>
+        <item>Warahana Wildlife Circuit Bungalow</item>
+        <item>Ondaatje Bugalow</item>
+    </string-array>
+    <string name="title_activity_route">Map</string>
+</resources>
