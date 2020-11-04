@@ -38,7 +38,8 @@
             android:layout_height="match_parent"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            app:cardElevation="3dp">
+            app:cardElevation="3dp"
+            android:clickable="true">
 
             <RelativeLayout
                 android:id="@+id/rl_leopard"
