@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "1080740400828",
-    "firebase_url": "https://mapfunction-89f66.firebaseio.com",
-    "project_id": "mapfunction-89f66",
-    "storage_bucket": "mapfunction-89f66.appspot.com"
+    "project_number": "575407961734",
+    "firebase_url": "https://smart-safari.firebaseio.com",
+    "project_id": "smart-safari",
+    "storage_bucket": "smart-safari.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1080740400828:android:4ea2c07fe34fbffd0ccab9",
+        "mobilesdk_app_id": "1:575407961734:android:6fc2b6d08b4d0a5e040307",
         "android_client_info": {
-          "package_name": "com.example.asus_pc.mapfunction"
+          "package_name": "com.isprid.smartsafari"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1080740400828-tpjtfn750c46eshkcvfqugmgcjgi9b6v.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.asus_pc.mapfunction",
-            "certificate_hash": "f57107f1a79789a6e95d19a24ec4621f92de0b1e"
-          }
-        },
-        {
-          "client_id": "1080740400828-gbpgq196hhgceevfpa4dvl1fsm24agqb.apps.googleusercontent.com",
+          "client_id": "575407961734-v72h5kca86eep5f6dvi5eiuij5hdgm9l.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBesfdi3vziKFzalK9bDmZ2Y7bTVacntNs"
+          "current_key": "AIzaSyDD0Ym_IQWA2hZy9Csvsv2bx4qCHx4b2Eo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1080740400828-gbpgq196hhgceevfpa4dvl1fsm24agqb.apps.googleusercontent.com",
+              "client_id": "575407961734-v72h5kca86eep5f6dvi5eiuij5hdgm9l.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,27 +37,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1080740400828:android:986ed8a0b49943eb0ccab9",
+        "mobilesdk_app_id": "1:575407961734:android:34cfe53dadd5d163040307",
         "android_client_info": {
-          "package_name": "com.example.googlemapforyala"
+          "package_name": "com.isprid.smartsafaridashboard"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1080740400828-gbpgq196hhgceevfpa4dvl1fsm24agqb.apps.googleusercontent.com",
+          "client_id": "575407961734-v72h5kca86eep5f6dvi5eiuij5hdgm9l.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBesfdi3vziKFzalK9bDmZ2Y7bTVacntNs"
+          "current_key": "AIzaSyDD0Ym_IQWA2hZy9Csvsv2bx4qCHx4b2Eo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1080740400828-gbpgq196hhgceevfpa4dvl1fsm24agqb.apps.googleusercontent.com",
+              "client_id": "575407961734-v72h5kca86eep5f6dvi5eiuij5hdgm9l.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
