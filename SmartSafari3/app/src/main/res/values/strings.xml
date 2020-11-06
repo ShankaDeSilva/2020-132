@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">SmartSafari</string>
+    <string name="generate_route">Generate Route</string>
+
+    <string-array name="animals">
+        <item>Choose an Animal....</item>
+        <item>Elephants</item>
+        <item>Leopards</item>
+        <item>Birds</item>
+        <item>Bears</item>
+    </string-array>
+
+    <string-array name="Bungalows">
+        <item>Select a Destination.....</item>
+        <item>Bungalow</item>
+        <item>Bungalow</item>
+        <item>Bungalow</item>
+        <item>Bungalow</item>
+    </string-array>
 </resources>
