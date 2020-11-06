@@ -1,18 +1,18 @@
 # 2020-132
 
-Safari Traveling Guidance System - Mobile Application
+**SMART SAFARI** - Safari Traveling Guidance System (Mobile Application)
 
 **Main Objective**
 
 
-*  To implement a complete safari traveling guidance mobile application with including animal identifying section, automatic comment rating section, complete road map and optimal path generator.
+*  To implement a complete safari traveling guidance mobile application with including animal identifying section, automatic comment rating section, map with temporary locations adding function and optimal path generator.
 
 
 **Main Research Questions**
 
 
 *  “YAALA” is the second biggest national park in Sri Lanka and it is very famous among local and foreign travelers because of the host of animals that live in the park and the variety of the environment. Most of the travelers, especially foreign travelers willing to plan their safari trip based on other feedbacks. But there is no option available for the travelers to add their comments and view other comments, feedbacks in a proper manner.
-When it comes to a safari tour, travelers can’t get better experience in safari tour. Most of the time animals are live in inside the jungle. Because of that, travelers can’t get the expected experience from the safari tour. There are no mobile applications to notify the locations to watch animals when they are in the ground.
+When it comes to a safari tour, travelers can’t get better experience in safari tour. Most of the time animals are live in inside the jungle. Because of that, travelers can’t get the expected experience from the safari tour. There are no mobile applications to notify the locations to watch animals when they are in the sanctuary.
 There are many numbers of animals in this park. Most of the travelers, especially foreigners they enthusiastic to wildlife viewing, wildlife photography, Birdwatching are some of the most interesting hobbies. But sometimes identifying animals, as an example mammal correctly and viewing them with knowing the correctly information about them is more interesting. And, it will be very important for children as well for their school studies also. Also, this information will be needed for the university students in Sri Lanka as well as the students from foreign universities for their studies and researches. If there is a method of identifying mammals by their movement and life patterns it will be much easier for the above-mentioned individuals.
 The main research problem we discuss in this paper is there is not implemented any app yet to generate an optimal route for travelers in traveling national parks. To identify which path goes in the park to fulfill the traveler requirements is still doing manually. It is very time consuming and travelers cannot choose his path properly with less information in the park.
 Our proposed system is the solution for these research problems.
@@ -21,7 +21,7 @@ Our proposed system is the solution for these research problems.
 **Individual Research Question**
 
 
-1.    When it comes to a safari tour, travelers cannot get better experience in safari tour. Most of the time animals are live in inside the jungle. Because of that, travelers cannot get the expected experience from the safari tour. There are no mobile application to notify the locations to watch animals when they are in the ground.
+1.    When it comes to a safari tour, travelers cannot get better experience in safari tour. Most of the time animals are live in inside the sanctuary. Because of that, travelers cannot get the expected experience from the safari tour. There are no mobile application to notify the locations when in a safari tour to watch animals when they are outside of the sanctuary.
 
 2.   Most of the travelers, especially foreign travelers willing to plan their safari trip based on other feedbacks. But there is no option available for the travelers to add their comments and view other comments, feedbacks in a proper manner. If there is a section to facilitate travelers to add their comments into a categorized section as “Good comments” and “Bad comments” and view all comments under the specified score range. There is no option available to facilitate travelers to view added comments under categorized section as “Positive” and “Negative” and view added feedbacks in order to “very bad” level from “very good” level to find the best feedbacks to plan their safari travel better than before. In this proposed system, I wanted to come up with a solution to overcome this problem and to let the travelers get a better safari experience than before. In this proposed system, it facilitates to travelers, to add their comments and the system will automatically categorize those comments into negative and positive sections. It the system will add those comments into a pre-defined score range. Then it will be more accurate and very useful for all travelers to get a best safari experience better than before.
 
@@ -34,7 +34,7 @@ Our proposed system is the solution for these research problems.
 
 **Individual Objectives**
 
-1.  To create a complete map for the national park and develop temporary locations adding function to the map.
+1.  To create a map for the national park and develop temporary locations adding function to the map.
 
 2.  To create a comment and reviews categorizing and rating section to categorize comments as “good” and “bad” and add ranking to comments by the system automatically using machine learning and sentiment analysis algorithms
 
@@ -49,6 +49,8 @@ Our proposed system is the solution for these research problems.
 
 
 Group Details
+
+**Group 132**
 
 
 *  Lawrence D.P  |  IT17053242	| 0770644526 |  dimuthpriyasad@gmail.com
